@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikasi Mengenal Buah</string>
+    <string name="buahapaini">Buah Apakah Ini?</string>
+    <string name="masukinnamabuah">Masukkan Nama Buah</string>
+    <string name="ok">Ok</string>
+    <string name="proses">Proses</string>
+</resources>
